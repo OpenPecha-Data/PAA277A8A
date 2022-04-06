@@ -1,0 +1,28 @@
+id: PAA277A8A
+initial_creation_type: input
+source_metadata:
+  work_id: http://purl.bdrc.io/resource/WA1KG12222
+  instance_id: http://purl.bdrc.io/resource/IE1KG12222
+  collection_id: http://purl.bdrc.io/resource/PR0ET002
+  language_id: http://purl.bdrc.io/resource/LangBo
+  title:
+    bo:
+    - གསུང་འབུམ། ཆོས་ཀྱི་བློ་གྲོས།
+  alt_title: {}
+  author: http://purl.bdrc.io/resource/P2636
+  publisher: DrikungChetsang
+  access: http://purl.bdrc.io/admindata/AccessOpen
+  restrictedInChina: false
+  volumes:
+    4d08e6160480434a833615e67479ff5e:
+      title: བདུན་པ།སྙན་བརྒྱུད་ཀྱི་ཆོས་སྐོར།༠༧༤༽༄།་།དཔལ་ཏཻ་ལོ་པའི་སྙན་བརྒྱུད་ཀྱི་གདམས་པ།པ་ལ་བཞག་ཐབས་རྣམ་པ་གསུམ་ལ་བརྟེན་ནས་རང་བྱུང་གི་ཡེ་ཤེས་
+      volume_number: 1
+      base_file: UT1KG12222_001_0003.txt
+      reference: http://purl.bdrc.io/resource/VL9A3FF7851D17D3E1
+      image_group: null
+      quality: null
+  reproductionOf:
+  - http://purl.bdrc.io/resource/MW1KG12222
+  - http://purl.bdrc.io/resource/W1KG12222
+created_at: '2021-12-22T10:32:49.490283'
+last_modified_at: '2021-12-22T10:32:49.490289'
